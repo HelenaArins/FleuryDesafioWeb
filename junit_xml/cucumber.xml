@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="8.298276">
+    <testcase classname="[Fleury] - QA Automação - Desafio Web" name="Validation of the unit title" time="8.298276">
+        <system-out><![CDATA[Given that the user acess the Fleury page...................................passed
+When the user click on the Unity............................................passed
+And the user clicks to select an item in the Filter by ease.................passed
+And the user selects the first option in the units..........................passed
+Then the title shoud be the same as that selected...........................passed
+And the page shoud be closed................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
